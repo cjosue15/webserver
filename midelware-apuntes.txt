@@ -1,0 +1,2 @@
+Un midelware es basicamente una intruccion o un callback
+que se ejecutara sioempre no importa que Url la persona pida
